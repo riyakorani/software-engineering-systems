@@ -82,14 +82,8 @@ This project demonstrates understanding of:
 ### 🍔 Food Delivery System
 ![Food Delivery System](food-delivery.png)
 
-## 🚀 Future Improvements
-
-* Data Flow Diagrams (DFD)
-* Use Case Diagrams
-* Database Design (ER Diagram)
-* System Architecture Design
-
 ---
+
 
 ## ⭐ Note
 
