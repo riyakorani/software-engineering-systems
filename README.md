@@ -73,19 +73,14 @@ This project demonstrates understanding of:
 
 ## 📷 Diagrams Preview
 
-## 📷 Diagrams Preview
-
-### 🚆 IRCTC System
-![IRCTC System](train-booking-flowchart.drawio)
+### 🚆 IRCTC Train Booking System
+![IRCTC System](irctc.png)
 
 ### 🛒 Online Shopping System
-![Shopping System](Shopping.drawio)
+![Online Shopping System](shopping.png)
 
 ### 🍔 Food Delivery System
-![Food Delivery System](food delivery.drawio)
-
----
----
+![Food Delivery System](food-delivery.png)
 
 ## 🚀 Future Improvements
 
