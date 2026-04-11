@@ -97,14 +97,14 @@ This project demonstrates understanding of:
 
 ## 📊 Food Delivery System - DFD
 
-### Level 0 DFD
-![Level 0](DFD/food_delivery_dfd_level_0.png)
+### 🔹 Level 0 DFD
+![Level 0](food_delivery_dfd_level_0.png)
 
-### Level 1 DFD
-![Level 1](DFD/food_delivery_dfd_level_1.png)
+### 🔹 Level 1 DFD
+![Level 1](food_delivery_dfd_level_1.png)
 
-### Level 2 DFD
-![Level 2](DFD/food_delivery_dfd_level_2.png)
+### 🔹 Level 2 DFD
+![Level 2](food_delivery_dfd_level_2.png)
 
 ---
 
