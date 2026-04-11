@@ -89,7 +89,6 @@ This project demonstrates understanding of:
 
 ### 🍔 Food Delivery System
 ![Food Delivery System](food-delivery-system-er-diagram.png)
-
 ---
 
 ## ⭐ Note
