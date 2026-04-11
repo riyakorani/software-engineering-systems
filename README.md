@@ -83,13 +83,31 @@ This project demonstrates understanding of:
 
 ### 🍔 Food Delivery System
 ![Food Delivery System](food%20delivery.drawio.png)
+
+
 ---
 
 ## 📊 ER Diagram
 
 ### 🍔 Food Delivery System
 ![Food Delivery System](food-delivery-system-er-diagram.png)
+
+
 ---
+
+## 📊 Food Delivery System - DFD
+
+### Level 0 DFD
+![Level 0](DFD/food_delivery_dfd_level_0.png)
+
+### Level 1 DFD
+![Level 1](DFD/food_delivery_dfd_level_1.png)
+
+### Level 2 DFD
+![Level 2](DFD/food_delivery_dfd_level_2.png)
+
+---
+
 
 ## ⭐ Note
 
