@@ -60,6 +60,8 @@ It includes structured flowcharts and Software Requirement Specification (SRS) b
 
 ---
 
+
+
 ## 🎯 Purpose
 
 This project demonstrates understanding of:
@@ -83,6 +85,12 @@ This project demonstrates understanding of:
 ![Food Delivery System](food%20delivery.drawio.png)
 ---
 
+## 📊 ER Diagram
+
+### 🍔 Food Delivery System
+![Food Delivery System](food-delivery-system-er-diagram.png)
+
+---
 
 ## ⭐ Note
 
